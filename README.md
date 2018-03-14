@@ -1,2 +1,2 @@
 # DL_Benchmark
-For AI Taskforce
+This project is for NCHC AI Taskforce to tuning the performance of Deep Learning facility.
