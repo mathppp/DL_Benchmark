@@ -1,7 +1,8 @@
 # DL_Benchmark
 This project is for NCHC AI Taskforce to tuning the performance of Deep Learning facility.
 
-+++++  Tensorflow whell  +++++
++++++  wheel file for tensorflow +++++
+
 the version of install tensorflow package created by Fang-An Kuo from NCHC.
     
 the first upload is the tensorflow wheel for installing tensorflow 1.4.1 with python 2.7 and cudnn 7.1.1.5 on ubuntu 16.04.3 LTS.
